@@ -1,16 +1,21 @@
-### Hi there 👋
+### About Me
+I'm a 17 year old software developer.
 
-<!--
-**brandonplank/brandonplank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop in Java, C, Objective-C, Cpp and Swift.
 
-Here are some ideas to get you started:
+### Projects
+- [Flappy Bird](https://github.com/brandonplank/flappybird/) - A 1-1 recreation of Flappy Bird that support all devices that are newer than the iphone 4s.
+- [RootlessJB](https://github.com/brandonplank/rootlessJB4) - A basic iOS jailbreak for iOS 12.X.X for A7 - A11 chips. Uses jelbrekLib
+- Many more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+
+[![https://github-readme-stats.vercel.app/api?username=brandonplank&show_icons=true](https://github-readme-stats.vercel.app/api?username=brandonplank&show_icons=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonplank&layout=compact&langs_count=6&hide=assembly)](https://github.com/brandonplank/)
+
+(https://github.com/brandonplank)
+
+### Contact Information
+- `crypticplank#3972` on Discord.
+- `brandon@brandonplank.org` my personal contact email.
