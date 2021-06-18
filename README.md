@@ -10,7 +10,7 @@ I develop in Java, C, Objective-C, Cpp and Swift.
 
 ### GitHub Stats
 
-[![https://github-readme-stats.vercel.app/api?username=brandonplank&show_icons=true]](https://github-readme-stats.vercel.app/api?username=brandonplank&show_icons=true)
+[![https://github-readme-stats.vercel.app/api?username=brandonplank&show_icons=true](https://github-readme-stats.vercel.app/api?username=brandonplank&show_icons=true)]
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonplank&layout=compact&langs_count=6&hide=assembly)](https://github.com/brandonplank/)
 
