@@ -14,8 +14,6 @@ I develop in Java, C, Objective-C, Cpp and Swift.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonplank&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/brandonplank/)
 
-(https://github.com/brandonplank)
-
 ### Contact Information
 - `crypticplank#3972` on Discord.
 - `brandon@brandonplank.org` my personal contact email.
